@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Sep 20 22:22:38 2018
-@author: senth
-Spark SQL Test
+@author: senthil
+PySpark SQL Test
 """
 
 import pandas as pd
